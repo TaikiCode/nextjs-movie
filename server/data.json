@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "ショーシャンクの空に",
+        "releaseYear": 1994,
+        "description": "1994年アメリカ映画。冤罪によってショーシャンク刑務所へ投獄されてしまった有能な銀行員の主人公アンディが、腐敗した刑務所内でも仲間を作り、共に語り合い成長し、理不尽な仕打ちの中でも決して人生を諦めない傑作ヒューマンドラマ。",
+        "rating": 4.8,
+        "genre": "ドラマ",
+        "cover": "https://images.unsplash.com/photo-1614270248176-3fdd040ac6e7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2850&q=80",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjQ2NDA3MDcxMF5BMl5BanBnXkFtZTgwMjE5NTU0NzE@._V1_CR0,60,640,360_AL_UX477_CR0,0,477,268_AL_.jpg"
+    },
+    {
+        "id": "2",
+        "name": "ダークナイト",
+        "releaseYear": 2008,
+        "description": "2008年アメリカ映画。新生バットマンシリーズのダークナイト三部作で「バットマン・ビギンズ」に続く第2作目。ダークナイトはアメコミ作品を凌駕した作品として社会現象となった作品です。ジョーカーを演じた故ヒース・レジャーがアカデミー賞助演男優賞を受賞したことでも話題になりました。",
+        "rating": 4.7,
+        "genre": "アクション, 犯罪, ドラマ",
+        "cover": "https://images.unsplash.com/photo-1486693128850-a77436e7ba3c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2850&q=80",
+        "image": "https://img.cinemablend.com/filter:scale/quill/c/3/8/0/f/4/c380f4f12cfeec19f0c40c6f57db188f2f98cca8.jpg?mw=600"
+    },
+    {
+        "id": "3",
+        "name": "ロード・オブ・ザ・リング／旅の仲間",
+        "releaseYear": 2004,
+        "description": "2001年アメリカ・ニュージーランド映画。J・R・R・トールキン原作の小説『指輪物語』を実写映画化したファンタジー超大作シリーズ三部作の第1弾です。絶大な魔力を秘めた“指輪”を破壊することを運命づけられたホビット族のフロドは、仲間たちと共に壮絶な冒険の旅に出発します。",
+        "rating": 4.9,
+        "genre": "アドベンチャー, ドラマ, ファンタジー",
+        "cover": "https://images.unsplash.com/photo-1515515113139-f2840a3ddd77?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=2768&q=80",
+        "image": "https://img.cinemablend.com/filter:scale/quill/0/f/5/2/a/6/0f52a6843a25c1a5c1f9a0c00548cad9e1d912e2.jpg?mw=600"
+    }
+]

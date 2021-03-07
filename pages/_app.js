@@ -1,6 +1,8 @@
 import Head from "next/head";
 
 import "../styles/globals.css";
+import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
 
 function MyApp({ Component, pageProps }) {
   return (
@@ -29,7 +31,12 @@ function MyApp({ Component, pageProps }) {
           crossOrigin="anonymous"
         ></script>
       </Head>
-      <Component {...pageProps} />
+      <Navbar />
+      <div className="pt-3 pb-5">
+          <Component {...pageProps} />
+      </div>
+      <Footer />
+      
     </div>
   );
 }
